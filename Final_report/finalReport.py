@@ -1,14 +1,23 @@
 import pandas as pd
 
 # Load cleaned dataset
-df = pd.read_csv("C:\\Users\\Admin\\Desktop\\Final Project\\Report_generation\\data_with_revenue.csv")
+# df = pd.read_csv("C:\\Users\\Admin\\Desktop\\Final Project\\Report_generation\\data_with_revenue.csv")
+
+from pathlib import Path
+
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+input_file = PROJECT_DIR / "Report_generation" / "data_with_revenue.csv"
+
+df = pd.read_csv(input_file)
+
+
 
 # Convert Date column
 df["Date"] = pd.to_datetime(df["Date"], dayfirst=True, errors="coerce")
 
 # Calculate revenue
 df["Revenue"] = df["Quantity"] * df["Unit Price"]
-
+ 
 # 1. Regional summary
 region_summary = df.groupby("Region").agg(
     Total_Revenue=("Revenue", "sum"),
