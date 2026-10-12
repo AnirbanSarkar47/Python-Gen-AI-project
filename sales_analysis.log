@@ -1,0 +1,67 @@
+2026-10-12 10:22:34,510 - INFO - Data cleaning started
+2026-10-12 10:22:40,811 - INFO - Data cleaning started
+2026-10-12 10:24:41,908 - INFO - Raw sales CSV loaded successfully
+2026-10-12 10:24:41,922 - INFO - Data cleaning started
+2026-10-12 10:24:50,016 - INFO - Raw sales CSV loaded successfully
+2026-10-12 10:24:50,032 - INFO - Data cleaning started
+2026-10-12 10:25:49,177 - INFO - Cleaned CSV saved successfully: c:\Users\Admin\Desktop\Python-Gen-AI-project\Data_Cleaning_done_here\cleaned_data.csv
+2026-10-12 10:27:28,693 - INFO - Duplicate rows removed: 10
+2026-10-12 10:27:38,794 - INFO - Raw sales CSV loaded successfully
+2026-10-12 10:27:38,832 - INFO - Data cleaning started
+2026-10-12 10:27:39,052 - INFO - Duplicate rows removed: 10
+2026-10-12 10:27:39,971 - INFO - Cleaned CSV saved successfully: c:\Users\Admin\Desktop\Python-Gen-AI-project\Data_Cleaning_done_here\cleaned_data.csv
+2026-10-12 10:31:36,438 - INFO - Revenue analysis started
+2026-10-12 10:36:26,560 - INFO - Cleaned CSV loaded successfully
+2026-10-12 10:36:26,587 - INFO - Revenue analysis started
+2026-10-12 10:38:14,924 - INFO - Revenue calculated successfully
+2026-10-12 10:38:14,924 - INFO - Total revenue: 657182734.1314366
+2026-10-12 10:39:08,078 - INFO - Revenue CSV saved: c:\Users\Admin\Desktop\Python-Gen-AI-project\Report_generation\data_with_revenue.csv
+2026-10-12 10:39:29,774 - INFO - Revenue CSV saved: c:\Users\Admin\Desktop\Python-Gen-AI-project\Report_generation\data_with_revenue.csv
+2026-10-12 10:39:37,389 - INFO - Cleaned CSV loaded successfully
+2026-10-12 10:39:37,413 - INFO - Revenue analysis started
+2026-10-12 10:39:37,536 - INFO - Revenue calculated successfully
+2026-10-12 10:39:37,536 - INFO - Total revenue: 657182734.1314366
+2026-10-12 10:39:37,833 - INFO - Revenue CSV saved: c:\Users\Admin\Desktop\Python-Gen-AI-project\Report_generation\data_with_revenue.csv
+2026-10-12 10:44:00,688 - INFO - Product and salesperson analysis started
+2026-10-12 10:45:22,922 - INFO - Product and salesperson rankings generated
+2026-10-12 10:45:25,068 - INFO - Product and salesperson rankings generated
+2026-10-12 10:45:36,593 - INFO - Revenue CSV loaded for ranking reports
+2026-10-12 10:45:36,632 - INFO - Product and salesperson analysis started
+2026-10-12 10:45:36,756 - INFO - Product and salesperson rankings generated
+2026-10-12 11:05:20,223 - INFO - Region analysis started
+2026-10-12 11:05:44,882 - INFO - Region summary generated successfully
+2026-10-12 11:06:33,157 - INFO - Revenue CSV loaded successfully for region analysis
+2026-10-12 11:06:33,200 - INFO - Region analysis started
+2026-10-12 11:06:33,276 - INFO - Region summary generated successfully
+2026-10-12 11:30:20,728 - INFO - Daily and monthly sales analysis started
+2026-10-12 11:34:05,023 - INFO - Sales data loaded successfully
+2026-10-12 11:34:15,056 - INFO - Sales data loaded successfully
+2026-10-12 11:37:08,569 - INFO - Date conversion and revenue calculation completed
+2026-10-12 11:37:42,526 - INFO - Daily sales totals saved successfully
+2026-10-12 11:38:42,442 - INFO - Monthly sales totals saved successfully
+2026-10-12 11:38:43,895 - INFO - Monthly sales totals saved successfully
+2026-10-12 11:38:48,672 - INFO - Daily and monthly sales analysis started
+2026-10-12 11:38:48,831 - INFO - Sales data loaded successfully
+2026-10-12 11:38:48,993 - INFO - Date conversion and revenue calculation completed
+2026-10-12 11:38:49,177 - INFO - Daily sales totals saved successfully
+2026-10-12 11:38:49,268 - INFO - Monthly sales totals saved successfully
+2026-10-12 11:40:19,177 - INFO - Raw sales CSV loaded successfully
+2026-10-12 11:40:19,197 - INFO - Data cleaning started
+2026-10-12 11:40:30,106 - INFO - Raw sales CSV loaded successfully
+2026-10-12 11:40:30,125 - INFO - Data cleaning started
+2026-10-12 11:40:30,394 - INFO - Duplicate rows removed: 10
+2026-10-12 11:40:31,786 - INFO - Cleaned CSV saved successfully: c:\Users\Admin\Desktop\Python-Gen-AI-project\Data_Cleaning_done_here\cleaned_data.csv
+2026-10-12 11:42:01,339 - INFO - Daily and monthly sales analysis started
+2026-10-12 11:42:05,208 - INFO - Sales data loaded successfully
+2026-10-12 11:42:16,709 - INFO - Daily sales totals saved successfully
+2026-10-12 11:42:39,343 - INFO - Revenue CSV loaded successfully for region analysis
+2026-10-12 11:42:39,372 - INFO - Region analysis started
+2026-10-12 11:42:45,390 - INFO - Revenue CSV loaded successfully for region analysis
+2026-10-12 11:42:45,423 - INFO - Region analysis started
+2026-10-12 11:43:07,996 - INFO - Region summary generated successfully
+2026-10-12 11:44:03,846 - INFO - Revenue CSV loaded for ranking reports
+2026-10-12 11:44:03,897 - INFO - Product and salesperson analysis started
+2026-10-12 11:58:42,135 - INFO - Final report generation started
+2026-10-12 11:58:42,224 - INFO - Sales data loaded and validated successfully
+2026-10-12 11:58:42,376 - INFO - All six summaries generated successfully
+2026-10-12 11:58:43,741 - INFO - Excel report exported successfully: C:\Users\Admin\Desktop\Python-Gen-AI-project\Final_report\Sales_Analysis_Report.xlsx

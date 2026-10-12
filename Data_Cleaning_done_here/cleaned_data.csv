@@ -214,7 +214,7 @@ ORD8943,2026-03-18,Pooja Gupta,East,Mouse,3.0,600.0
 ORD1311,2026-03-22,Yash Agarwal,East,Tablet,3.0,15000.0
 ORD9368,2026-01-07,Monika Verma,East,Headphones,2.0,2500.0
 ORD4481,2026-01-12,Sneha Patel,South,Mobile,5.0,20000.0
-ORD7323,2026-01-14,Priya Reddy,North,Headphones,,2500.0
+ORD7323,2026-01-14,Priya Reddy,North,Headphones,5.5458825886595875,2500.0
 ORD3861,2026-03-17,Monika Verma,South,Camera,2.0,18000.0
 ORD4396,2026-02-26,Sahana Murthy,North,Speakers,1.0,3000.0
 ORD0361,2026-01-11,Ishita Das,South,External Hard Drive,5.0,5000.0
@@ -440,7 +440,6 @@ ORD3935,2026-03-03,Aishwarya Rao,South,Mobile,2.0,20000.0
 ORD5029,2026-02-06,Yash Agarwal,North,Smartwatch,1.0,10000.0
 ORD0368,2026-03-20,Shalini Gupta,North,Laptop,6.0,45000.0
 ORD8856,2026-01-20,Karthik Iyer,North,Printer,8.0,8000.0
-ORD4439,2026-03-05,Sandeep Yadav,North,Camera,8.0,
 ORD4059,2026-02-11,Priya Reddy,North,Laptop,2.0,45000.0
 ORD0583,2026-03-24,Shreya Ghosh,East,Mouse,6.0,600.0
 ORD1394,2026-02-28,Rajesh Pawar,East,Camera,5.0,18000.0
@@ -1177,7 +1176,6 @@ ORD5301,2026-01-26,Meera Iyer,North,Smartwatch,1.0,10000.0
 ORD6643,2026-03-10,Gaurav Tripathi,North,Keyboard,5.0,1200.0
 ORD6337,2026-01-12,Rajesh Kumar,South,Camera,2.0,18000.0
 ORD5228,2026-02-08,Nikhil Bansal,North,Smartwatch,3.0,10000.0
-ORD9899,2026-01-19,Harish Chandra,North,Mobile,7.0,
 ORD1255,2026-01-30,Sahana Murthy,East,Tablet,7.0,15000.0
 ORD2488,2026-02-23,Harish Chandra,North,Camera,9.0,18000.0
 ORD8329,2026-01-27,Manish Gupta,West,Printer,2.0,8000.0
@@ -1424,7 +1422,6 @@ ORD2908,2026-01-14,Deepak Chauhan,South,Tablet,4.0,15000.0
 ORD8548,2026-03-03,Monika Verma,West,Speakers,3.0,3000.0
 ORD8834,2026-02-27,Siddhi Patil,South,Laptop,4.0,45000.0
 ORD2983,2026-03-13,Abhishek Mishra,East,Monitor,9.0,12000.0
-ORD9424,2026-02-02,Meera Iyer,East,Tablet,7.0,
 ORD6585,2026-01-02,Rohit Mishra,North,Mouse,6.0,600.0
 ORD3315,2026-03-16,Suresh Reddy,East,Camera,5.0,18000.0
 ORD7466,2026-03-01,Lakshmi Menon,North,Keyboard,9.0,1200.0
@@ -2881,7 +2878,7 @@ ORD2059,2026-02-04,Bhavana Reddy,South,Mouse,5.0,600.0
 ORD8502,2026-01-17,Radhika Menon,South,Camera,2.0,18000.0
 ORD6448,2026-01-08,Divya Menon,North,Speakers,5.0,3000.0
 ORD3442,2026-01-01,Tarun Mehta,West,Tablet,8.0,15000.0
-ORD4519,2026-03-23,Sanjay Patel,East,Tablet,,15000.0
+ORD4519,2026-03-23,Sanjay Patel,East,Tablet,5.5458825886595875,15000.0
 ORD1167,2026-03-23,Manish Tiwari,North,Printer,6.0,8000.0
 ORD0255,2026-02-05,Vikram Singh,West,Tablet,7.0,15000.0
 ORD0416,2026-03-21,Tarun Kapoor,South,Monitor,3.0,12000.0
@@ -3599,7 +3596,7 @@ ORD0848,2026-01-25,Siddharth Khanna,West,Mobile,4.0,20000.0
 ORD3345,2026-02-10,Radhika Menon,West,External Hard Drive,3.0,5000.0
 ORD0939,2026-03-10,Arjun Mehta,North,Speakers,4.0,3000.0
 ORD4835,2026-01-22,Ritu Agarwal,West,Mouse,10.0,600.0
-ORD5099,2026-01-26,Shalini Kapoor,North,External Hard Drive,,5000.0
+ORD5099,2026-01-26,Shalini Kapoor,North,External Hard Drive,5.5458825886595875,5000.0
 ORD8873,2026-02-23,Monika Verma,West,Monitor,9.0,12000.0
 ORD8620,2026-03-04,Siddharth Jain,East,Speakers,6.0,3000.0
 ORD5366,2026-02-23,Siddharth Khanna,East,Mobile,8.0,20000.0
@@ -3833,7 +3830,6 @@ ORD2245,2026-03-26,Ajay Patel,West,Mobile,8.0,20000.0
 ORD0179,2026-01-13,Abhishek Mishra,West,Mobile,4.0,20000.0
 ORD6408,2026-02-15,Riya Kapoor,South,Mobile,9.0,20000.0
 ORD9725,2026-03-10,Ananya Sinha,East,Laptop,7.0,45000.0
-ORD1175,2026-03-24,Rahul Verma,East,,10.0,5000.0
 ORD9661,2026-03-19,Amit Kumar,North,Keyboard,2.0,1200.0
 ORD5861,2026-01-14,Naveen Reddy,West,Camera,4.0,18000.0
 ORD1832,2026-03-13,Gaurav Malhotra,South,Laptop,1.0,45000.0
@@ -5355,12 +5351,10 @@ ORD2576,2026-03-16,Aarav Sharma,West,Mobile,3.0,20000.0
 ORD0054,2026-02-18,Varun Shetty,East,Tablet,5.0,15000.0
 ORD3341,2026-01-20,Nandini Roy,South,External Hard Drive,3.0,5000.0
 ORD7052,2026-01-09,Nisha Kumari,South,Monitor,1.0,12000.0
-ORD1706,2026-01-10,Naveen Kumar,East,Camera,,18000.0
+ORD1706,2026-01-10,Naveen Kumar,East,Camera,5.5458825886595875,18000.0
 ORD9070,2026-01-16,Sanjay Patel,East,Headphones,4.0,2500.0
 ORD5475,2026-03-16,Simran Kaur,East,Monitor,10.0,12000.0
-ORD1494,2026-01-10,Nikhil Jain,East,Camera,2.0,
 ORD9974,2026-01-28,Vikram Joshi,South,External Hard Drive,6.0,5000.0
-ORD7277,2026-03-25,Gaurav Malhotra,West,,2.0,3000.0
 ORD0804,2026-03-07,Aishwarya Rao,East,Keyboard,1.0,1200.0
 ORD4954,2026-02-09,Nisha Kumari,West,Tablet,5.0,15000.0
 ORD6948,2026-01-02,Karthik Iyer,West,Laptop,1.0,45000.0
@@ -6175,7 +6169,6 @@ ORD1891,2026-03-04,Mohan Babu,North,Laptop,1.0,45000.0
 ORD8696,2026-03-02,Kavya Rao,East,Mouse,1.0,600.0
 ORD7039,2026-03-06,Arjun Reddy,West,Printer,2.0,8000.0
 ORD9193,2026-01-13,Gaurav Tripathi,East,Laptop,9.0,45000.0
-ORD3564,2026-03-18,Ishita Roy,South,,7.0,600.0
 ORD5788,2026-02-27,Simran Kaur,West,External Hard Drive,5.0,5000.0
 ORD4959,2026-02-15,Simran Kaur,West,Mobile,6.0,20000.0
 ORD1547,2026-03-10,Meera Nair,South,External Hard Drive,9.0,5000.0
@@ -6679,7 +6672,6 @@ ORD7935,2026-01-27,Lakshmi Menon,East,Tablet,1.0,15000.0
 ORD9706,2026-02-04,Tarun Mehta,North,Speakers,6.0,3000.0
 ORD7204,2026-03-04,Arjun Reddy,South,Tablet,8.0,15000.0
 ORD8243,2026-03-09,Aarav Sharma,South,Tablet,7.0,15000.0
-ORD6579,2026-02-16,Yash Agarwal,South,Keyboard,10.0,
 ORD5092,2026-03-17,Siddhi Patil,East,Tablet,2.0,15000.0
 ORD2187,2026-01-02,Nikhil Bansal,East,Laptop,1.0,45000.0
 ORD1135,2026-02-24,Gaurav Malhotra,South,Mobile,7.0,20000.0
@@ -6914,7 +6906,6 @@ ORD7431,2026-01-04,Radhika Pillai,South,Smartwatch,4.0,10000.0
 ORD7308,2026-01-07,Ritika Sinha,South,Camera,9.0,18000.0
 ORD7599,2026-03-12,Anil Reddy,West,Monitor,7.0,12000.0
 ORD9387,2026-03-25,Tarun Kapoor,East,Speakers,1.0,3000.0
-ORD8821,2026-03-12,Vikram Singh,South,,9.0,5000.0
 ORD9354,2026-01-16,Manish Gupta,North,Camera,9.0,18000.0
 ORD4680,2026-03-16,Riya Kapoor,North,Smartwatch,4.0,10000.0
 ORD3404,2026-01-11,Radhika Menon,North,Speakers,2.0,3000.0
@@ -6942,7 +6933,6 @@ ORD8451,2026-03-03,Ritika Singh,North,Keyboard,8.0,1200.0
 ORD4913,2026-01-03,Sanjay Patel,South,Keyboard,4.0,1200.0
 ORD5669,2026-03-08,Rohan Kulkarni,East,Camera,7.0,18000.0
 ORD8552,2026-03-28,Deepak Chauhan,West,Mobile,10.0,20000.0
-ORD1801,2026-02-28,Nisha Kumari,South,,6.0,3000.0
 ORD9261,2026-02-09,Vikram Singh,West,Printer,4.0,8000.0
 ORD2430,2026-02-08,Akash Verma,West,External Hard Drive,8.0,5000.0
 ORD5483,2026-01-02,Shreya Ghosh,West,External Hard Drive,10.0,5000.0
@@ -7376,7 +7366,7 @@ ORD0344,2026-02-20,Suresh Reddy,South,Smartwatch,7.0,10000.0
 ORD4684,2026-03-13,Tarun Mehta,West,Monitor,5.0,12000.0
 ORD8794,2026-02-03,Divya Pillai,North,Speakers,8.0,3000.0
 ORD3751,2026-01-18,Amit Kumar,South,Speakers,2.0,3000.0
-ORD8462,2026-03-21,Ajay Thakur,East,Camera,,18000.0
+ORD8462,2026-03-21,Ajay Thakur,East,Camera,5.5458825886595875,18000.0
 ORD9317,2026-01-28,Simran Kaur,West,Tablet,2.0,15000.0
 ORD6000,2026-02-21,Shalini Kapoor,North,Camera,6.0,18000.0
 ORD3216,2026-02-20,Lakshmi Krishnan,South,Mobile,9.0,20000.0
